@@ -1,7 +1,6 @@
 ## Hi  I’m Donika 👋
 - 💻 I’m interested in Front-end and Fullstack Engineering
-- ## 📫 How to reach me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/donikasela/)
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/donikasela/)
 - 🚀 I’m looking to collaborate on web development projects, UI/UX improvements, or other fun and challenging ideas.
   
 ## 🛠 Technical Skills
